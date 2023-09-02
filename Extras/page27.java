@@ -1,4 +1,3 @@
-package Extras;
 class Room{
     float length;
     float breadth;

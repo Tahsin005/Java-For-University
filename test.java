@@ -1,7 +1,6 @@
 public class test{
     public static void main(String[] args) {
-        while(true){
-            
-        }
-    }    
+        float y = (float) 34.3;
+        System.out.println(y);
+    }
 }
