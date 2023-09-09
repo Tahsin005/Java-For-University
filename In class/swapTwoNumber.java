@@ -12,6 +12,8 @@ public class swapTwoNumber {
         y = x - y;
         x = x - y;
         System.out.println("Before swapping x = "+ x +" and y = "+ y);
+        sc.close();
+
     }   
     
 }

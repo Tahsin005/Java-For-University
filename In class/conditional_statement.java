@@ -28,5 +28,7 @@ public class conditional_statement {
         else{
             System.out.println("FAIL!");
         }
+        sc.close();
+
     }
 }

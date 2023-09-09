@@ -18,6 +18,8 @@ public class max_number {
             }
             System.out.println();
         }
+        sc.close();
+
     }
     
 }

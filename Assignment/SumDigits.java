@@ -21,5 +21,6 @@ public class SumDigits {
 
         int sum = n1 + n2 + n3 + n4;
         System.out.println("Sum of all digits are: " + sum);
+        scanner.close();
     }
 }

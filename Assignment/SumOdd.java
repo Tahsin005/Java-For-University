@@ -12,6 +12,8 @@ public class SumOdd {
             sum += i;
         }
         System.out.println("The sum of odd numbers between i and " + number + " is : " + sum);
+        sc.close();
+
     }
 
 }

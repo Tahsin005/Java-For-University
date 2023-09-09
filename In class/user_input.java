@@ -10,7 +10,7 @@ public class user_input {
         System.out.printf("This is an integer number %d",n);
         // System.out.println("This is an integer number : "+n);
         
-        String ch = sc.nextLine();
+        // String ch = sc.nextLine();
         System.out.println("Enter a string : ");
         String s = sc.nextLine();
         System.out.printf("This is an strign %s",s);
@@ -24,6 +24,7 @@ public class user_input {
         // System.out.printf("%d %d %d\n",n,m, n + m);
         // // System.out.println();
         // System.out.println("hello " + n + m);
+        sc.close();
         
     }
 }

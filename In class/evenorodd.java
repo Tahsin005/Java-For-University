@@ -7,6 +7,7 @@ public class evenorodd {
             System.out.println("Even");
         else 
             System.out.println("Odd");
+            sc.close();
     }
     
 }

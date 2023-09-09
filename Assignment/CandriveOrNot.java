@@ -27,5 +27,7 @@ public class CandriveOrNot {
         else {
             System.out.println("You are a minor.");
         }
+        sc.close();
+
     }
 }

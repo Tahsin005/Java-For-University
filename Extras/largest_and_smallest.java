@@ -19,6 +19,8 @@ public class largest_and_smallest {
             }
         }
         System.out.println("Largest in the array is : "+largest +"\n"+"Smallest in the array is : "+smallest);
+        sc.close();
+
     }
     
 }

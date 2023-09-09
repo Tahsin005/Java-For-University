@@ -14,6 +14,7 @@ public class factorial {
             }
             System.out.printf("Factorial of %d! is : %d",n,fact);
         }
+        sc.close();
     }
     
 }

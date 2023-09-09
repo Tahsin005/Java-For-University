@@ -17,6 +17,8 @@ public class TriangleCheck {
         else {
             System.out.println("The triangle is not valid");
         }
+        scanner.close();
+
         
     }
 }
