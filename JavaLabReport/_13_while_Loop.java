@@ -11,7 +11,7 @@ public class _13_while_Loop {
             if(i == 13){
                 break;
             }
-            System.out.print(i + " ");
+            System.out.println(i);
         }
     }
 }

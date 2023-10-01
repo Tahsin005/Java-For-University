@@ -11,6 +11,7 @@ public class _3_temperature_conversion {
         Celsius = sc.nextFloat();  
         Fahrenheit = ((Celsius * 9) / 5) + 32;  
         System.out.println("Temperature in Fahrenheit is: " + Fahrenheit);
+        System.out.println();
         
         System.out.print("Enter the temperature in Fahrenheit : ");
         Fahrenheit = sc.nextFloat();  

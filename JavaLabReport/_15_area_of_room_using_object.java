@@ -7,19 +7,15 @@ class Room {
     public int calculateArea(){
         return length * width;
     }
-
     public int getLength() {
         return length;
     }
-
     public void setLength(int l) {
         length = l;
     }
-
     public int getWidth() {
         return width;
     }
-
     public void setWidth(int w) {
         width = w;
     }
